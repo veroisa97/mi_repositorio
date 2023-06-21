@@ -8,4 +8,8 @@
 #gggg
 1-2
 
+#multiplicacion
+5-4
 
+#division
+4/2
